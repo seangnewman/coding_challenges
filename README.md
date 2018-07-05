@@ -9,4 +9,4 @@ These will start very simply, but will be completed in each of my targetted lang
 But not challenge will be considered complete without completions in each language. 
 
 #HackerRank
-I began with HackerRank[Your page](./HackerRank/README.md) Both my Chingu and Bootcamp sessions end this month (July 2018) and I plan on keeping the momentum for the rest of year. 
+I decided to begin with [HackerRank](./HackerRank/README.md) Both my Chingu and Bootcamp sessions end this month (July 2018) and I plan on keeping the momentum for the rest of year. 
