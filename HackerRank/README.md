@@ -11,4 +11,4 @@ Demonstrate a basic understanding of the syntax of the following languages
 - Python
 
 ## Contents
-- ** Day ** One : Hello World! [Hello, World!](./DayOne/DayOne.md)
+- ** Day ** One : Hello World! [Hello, World!](./DayOne/README.md)
