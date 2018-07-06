@@ -12,3 +12,5 @@ Demonstrate a basic understanding of the syntax of the following languages
 
 ## Contents
 - ** Day ** One : Hello World! [Hello, World!](./DayOne/README.md)
+- ** Day ** Two : Operators [Hello, World!](./DayTwo/README.md)
+
