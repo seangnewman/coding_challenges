@@ -11,6 +11,7 @@ Demonstrate a basic understanding of the syntax of the following languages
 - Python
 
 ## Contents
-- ** Day ** One : Hello World! [Hello, World!](./DayOne/README.md)
-- ** Day ** Two : Operators [Hello, World!](./DayTwo/README.md)
+- ** Day ** 0 : Hello World! [Hello, World!](./DayZero/README.md)
+- ** Day ** 1 : Data Types [Data Types](./DayOne/README.md)
+- ** Day ** 2 : Data Types [Data Types](./DayTwo/README.md)
 
