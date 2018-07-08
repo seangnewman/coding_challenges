@@ -14,5 +14,8 @@ Demonstrate a basic understanding of the syntax of the following languages
 - ** Day ** 0 : Hello World! [Hello, World!](./DayZero/README.md)
 - ** Day ** 1 : Data Types [Data Types](./DayOne/README.md)
 - ** Day ** 2 : Operators [Arithmetic Operators](./DayTwo/README.md)
-- ** Day ** 3 : Conditionals [Conditional Operators](./DayThree/README.md)
+- ** Day ** 3 : Conditionals [Conditional Operators]
+(./DayThree/README.md)
+- ** Day ** 4 : Class vs Instance [Class vs Instance]
+(./DayFour/README.md)
 
