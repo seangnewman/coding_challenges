@@ -18,4 +18,7 @@ Demonstrate a basic understanding of the syntax of the following languages
 (./DayThree/README.md)
 - ** Day ** 4 : Class vs Instance [Class vs Instance]
 (./DayFour/README.md)
+- ** Day ** 5 : Loops [Loops]
+(./DayFive/README.md)
+
 
